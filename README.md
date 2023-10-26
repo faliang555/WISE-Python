@@ -1,0 +1,107 @@
+# WISE-Python
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/harpolea/IACS_computes_2019/master)
+
+
+# Welcome to IACS Python summer camp
+
+Hi and welcome to the website for the **IACS Computes! HS summer camp**. During this camp, students will learn Python programming skills, get to know research challenges for which coding is necessary, and see several real-world applications of coding, including literature analysis, cryptography and data processing. 
+
+- **Dates:** 10-21 July, 9am to 3pm
+- **Location:** IACS seminar room, Stony Brook University, NY
+- **Instructor:** Fangchun Liang
+- **Helper:** Hao Lin
+
+On this page, you will find information about the [schedule](#schedule), [materials](#materials), and how to [install anaconda](#anaconda-installation).
+
+
+## Schedule
+
+The schedule is subject to change!
+
+Time | July 10 | July 11 | July 12 | July 13 |  July 14
+---------- | ---------- | ---------- | ---------- | ---------- | ----------
+**09:00** | welcome + installation | warm up | warm up | warm up | warm up
+**10:00** | arithmetic + variables | lists | strings | functions | turtles
+**11:00** | data types + conditionals | lists | strings | functions | errors + exceptions
+**12:00** | lunch | lunch | lunch | lunch | lunch
+**13:00** | while loops | for loops | dictionaries | I/O | more functions
+**14:00** | coding practice | coding practice | coding practice | coding practice | coding practice
+
+Time | July 17 | July 18 | July 19 | July 20 | July 21
+---------- | ---------- | ---------- | ---------- | ---------- | ----------
+**09:00** | warm up | warm up | warm up | student projects | student projects
+**10:00** | advanced lists | Numpy | fractals | student projects | student projects
+**11:00** | classes | Matplotlib | fractals | student projects | student projects
+**12:00** | lunch | lunch | lunch | lunch | lunch
+**13:00** | classes | Numpy & Matplotlib | coding practice | student projects | student presentations
+**14:00** | coding practice | coding practuce | coding practice | student projects | student presentations
+
+
+## Materials
+#### Day 1 (Monday, July 20)
+1. Basics
+2. Arithmetic
+3. Data Types
+4. Variables
+5. Conditionals
+6. While Loops
+7. Practice
+
+#### Day 2 (Tuesday, July 21)
+1. Review
+2. Lists
+3. For Loops
+4. Practice
+
+#### Day 3 (Wednesday, July 22)
+1. Review
+1. Strings
+2. Dictonaries
+7. Practice
+
+#### Day 4 (Thursday, July 23)
+1. Review
+1. Functions
+2. IO
+7. Practice
+
+#### Day 5 (Friday, July 24)
+1. Review
+1. Turtles
+2. Advanced Functions
+3. Errors
+7. Practice
+
+#### Day 6 (Monday, July 27)
+1. Review
+1. Advanced Lists
+2. Classes
+3. Practice
+
+#### Day 7 (Tuesday, July 28)
+1. Review
+1. Literature analysis (TBD)
+1. Cryptography (TBD)
+
+#### Day 8 (Wednesday, July 29)
+1. Warm-up
+2. Fractals
+3. Data processing
+
+#### Days 9 & 10 (Thursday, July 30 & Friday, July 31)
+Student projects
+- Towers of Hanoi
+- Tic Tac Toe
+- Text-based Adventure
+- Dead or alive
+
+## Anaconda installation
+
+1. Go to [Anaconda's website](https://docs.anaconda.com/anaconda/install/).
+2. Click on your operating system.
+3. Choose Python 3.7 version. I also recommend checking the box for the "Add Anaconda3 to my PATH environment variable" option.
+4. Follow the instructions. 
+5. Done!
+
+## Anaconda Online
+This should be the last resort. If you are unable to install Anaconda and do not have access to jupyter notebook on your computer, please use the online jupyter notebook from [here].(https://mybinder.org/v2/gh/ipython/ipython-in-depth/master?filepath=binder/Index.ipynb).
