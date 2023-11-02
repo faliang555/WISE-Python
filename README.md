@@ -21,7 +21,7 @@ The schedule is subject to change!
 
 Time | October 26 | November 2 | November 16 | November 30 |  December 7
 ---------- | ---------- | ---------- | ---------- | ---------- | ----------
-**03:00** | welcome and arithmetic + variables | lists | strings | functions | turtles
+**03:00** | welcome and arithmetic + variables | while loops | strings | functions | turtles
 **03:30** | data types + conditionals | lists | strings | functions | errors + exceptions
 **04:00** | while loops | for loops | dictionaries | I/O | more functions
 **04:30** | practice | practice | practice | practice| practice
