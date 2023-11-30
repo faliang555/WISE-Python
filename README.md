@@ -21,10 +21,10 @@ The schedule is subject to change!
 
 Time | October 26 | November 2 | November 16 | November 30 |  December 7
 ---------- | ---------- | ---------- | ---------- | ---------- | ----------
-**03:00** | welcome and arithmetic + variables | while loops | strings | functions | turtles
-**03:30** | data types + conditionals | lists | strings | functions | errors + exceptions
-**04:00** | while loops | for loops | dictionaries | I/O | more functions
-**04:30** | practice | practice | practice | practice| practice
+**03:00** | welcome and arithmetic + variables | while loops | strings | Review | turtles
+**03:30** | data types + conditionals | lists | strings | Code for Prize | errors + exceptions
+**04:00** | while loops | for loops | dictionaries | Code for Prize | more functions
+**04:30** | practice | practice | practice | Code for Prize| practice
 
 
 
@@ -52,9 +52,7 @@ Time | October 26 | November 2 | November 16 | November 30 |  December 7
 
 #### Day 4 (November 30)
 1. Review
-1. Functions
-2. 
-7. Practice
+2. Code for Prize
 
 #### Day 5 (December 7)
 1. Review
