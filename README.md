@@ -53,7 +53,7 @@ Time | October 26 | November 2 | November 16 | November 30 |  December 7
 #### Day 4 (November 30)
 1. Review
 1. Functions
-2. IO
+2. 
 7. Practice
 
 #### Day 5 (December 7)
