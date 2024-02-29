@@ -6,7 +6,7 @@
 
 Hi and welcome to the website for the **WISE - Introduction to Python in Science and Engineering**. During this 10-week program, students will learn Python programming skills, get to know research challenges for which coding is necessary, and see several real-world applications of coding, including literature analysis, cryptography and data processing. 
 
-- **Dates:** Thursday October 26th, November 2nd, November 16th, November 30th, December 7th
+- **Dates:** Thursday October 26th, November 2nd, November 16th, November 30th, December 7th, 
 - **Time:** 3:00 - 5:00 pm
 - **Location:** Engineering Building Rm. 106/Computer Lab, Stony Brook University, NY
 - **Instructor:** Fangchun Liang
@@ -21,10 +21,10 @@ The schedule is subject to change!
 
 Time | October 26 | November 2 | November 16 | November 30 |  December 7
 ---------- | ---------- | ---------- | ---------- | ---------- | ----------
-**03:00** | welcome and arithmetic + variables | while loops | strings | Review | turtles
-**03:30** | data types + conditionals | lists | strings | Code for Prize | errors + exceptions
-**04:00** | while loops | for loops | dictionaries | Code for Prize | more functions
-**04:30** | practice | practice | practice | Code for Prize| practice
+**03:00** | welcome and arithmetic + variables | while loops | strings | Review | Review
+**03:30** | data types + conditionals | lists | strings | Code for Prize | Caitlin's Story
+**04:00** | while loops | for loops | dictionaries | Code for Prize | Caitlin's Story
+**04:30** | practice | practice | practice | Code for Prize| Survey
 
 
 
@@ -56,10 +56,8 @@ Time | October 26 | November 2 | November 16 | November 30 |  December 7
 
 #### Day 5 (December 7)
 1. Review
-1. Turtles
-2. Advanced Functions
-3. Errors
-7. Practice
+2. Invited Talk by Caitlin Hetherington (Thank you, Caitlin!)
+3. Survey
 
 ## Anaconda installation
 
