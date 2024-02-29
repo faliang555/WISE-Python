@@ -30,7 +30,7 @@ Time | February 29 | March 7 | March 21 | April 11 |  April 18
 ---------- | ---------- | ---------- | ---------- | ---------- | ----------
 **03:00** | Review of Last Semester | Review | Invited Speaker | Projects | Practice
 **03:30** | I/O | advanced functions | Invited Speaker | Projects | Practice
-**04:00** | turtles | advanced lists | Invited Speaker | Projects | Practice
+**04:00** | advanced lists | turtle | Invited Speaker | Projects | Practice
 **04:30** | practice | practice | Invited Speaker | Projects| Practice
 
 
@@ -68,13 +68,13 @@ Time | February 29 | March 7 | March 21 | April 11 |  April 18
 #### Day 6 (February 29)
 1. Welcome and Review
 2. I/O
-3. Turtles
+3. Advanced Lists
 4. Get started with the Projects
 
 #### Day 7 (March 7)
 1. Review
 2. Advanced Functions
-3. Adavanced Lists
+3. Turtle
 4. Practice
 
 #### Day 8 (March 21)
