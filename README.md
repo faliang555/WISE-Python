@@ -6,11 +6,11 @@
 
 Hi and welcome to the website for the **WISE - Introduction to Python in Science and Engineering**. During this 10-week program, students will learn Python programming skills, get to know research challenges for which coding is necessary, and see several real-world applications of coding, including literature analysis, cryptography and data processing. 
 
-- **Dates:** Thursday October 26th, November 2nd, November 16th, November 30th, December 7th, 
+- **Dates:** Thursday October 26th, November 2nd, November 16th, November 30th, December 7th, February 29th, March 7th, March 21st, April 11th, April 18th.
 - **Time:** 3:00 - 5:00 pm
 - **Location:** Engineering Building Rm. 106/Computer Lab, Stony Brook University, NY
 - **Instructor:** Fangchun Liang
-- **TA:** Fariha Ahmed
+- **TA:** Fariha Ahmed (Session 1-5), Samantha Cruz (Session 6-10)
 
 On this page, you will find information about the [schedule](#schedule), [materials](#materials), and how to [install anaconda](#anaconda-installation).
 
@@ -26,6 +26,12 @@ Time | October 26 | November 2 | November 16 | November 30 |  December 7
 **04:00** | while loops | for loops | dictionaries | Code for Prize | Caitlin's Story
 **04:30** | practice | practice | practice | Code for Prize| Survey
 
+Time | February 29 | March 7 | March 21 | April 11 |  April 18
+---------- | ---------- | ---------- | ---------- | ---------- | ----------
+**03:00** | Review of Last Semester | Review | Invited Speaker | Projects | Practice
+**03:30** | I/O | advanced functions | Invited Speaker | Projects | Practice
+**04:00** | turtles | advanced lists | Invited Speaker | Projects | Practice
+**04:30** | practice | practice | Invited Speaker | Projects| Practice
 
 
 ## Materials
@@ -58,6 +64,27 @@ Time | October 26 | November 2 | November 16 | November 30 |  December 7
 1. Review
 2. Invited Talk by Caitlin Hetherington (Thank you, Caitlin!)
 3. Survey
+
+#### Day 6 (February 29)
+1. Welcome and Review
+2. I/O
+3. Turtles
+4. Get started with the Projects
+
+#### Day 7 (March 7)
+1. Review
+2. Advanced Functions
+3. Adavanced Lists
+4. Practice
+
+#### Day 8 (March 21)
+1. Invited Talk
+
+#### Day 9 (April 11)
+1. Projects
+
+#### Day 10 (April 18)
+1. Presentation
 
 ## Anaconda installation
 
