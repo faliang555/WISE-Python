@@ -6,7 +6,7 @@
 
 Hi and welcome to the website for the **WISE - Introduction to Python in Science and Engineering**. During this 10-week program, students will learn Python programming skills, get to know research challenges for which coding is necessary, and see several real-world applications of coding, including literature analysis, cryptography and data processing. 
 
-- **Dates:** Thursday October 26th, November 2nd, November 16th, November 30th, December 7th, February 29th, March 7th, March 21st, April 11th, April 18th.
+- **Dates:** Thursday October 26th, November 2nd, November 16th, November 30th, December 7th, February 29th, March 21st, April 11th, April 18th, May 2nd.
 - **Time:** 3:00 - 5:00 pm
 - **Location:** Engineering Building Rm. 106/Computer Lab, Stony Brook University, NY
 - **Instructor:** Fangchun Liang
@@ -26,12 +26,12 @@ Time | October 26 | November 2 | November 16 | November 30 |  December 7
 **04:00** | while loops | for loops | dictionaries | Code for Prize | Caitlin's Story
 **04:30** | practice | practice | practice | Code for Prize| Survey
 
-Time | February 29 | March 7 | March 21 | April 11 |  April 18
+Time | February 29  | March 21 | April 11 |  April 18 | May 2
 ---------- | ---------- | ---------- | ---------- | ---------- | ----------
-**03:00** | Review of Last Semester | Review | Invited Speaker | Projects | Practice
-**03:30** | I/O | advanced functions | Invited Speaker | Projects | Practice
-**04:00** | advanced lists | turtle | Invited Speaker | Projects | Practice
-**04:30** | practice | practice | Invited Speaker | Projects| Practice
+**03:00** | Review of Last Semester | Review | Projects | Practice | Invited Speaker
+**03:30** | I/O | advanced functions | Projects| Projects | Invited Speaker
+**04:00** | advanced lists | turtle | Projects | Projects | Invited Speaker
+**04:30** | practice | practice | Projects | Projects| Invited Speaker
 
 
 ## Materials
@@ -71,21 +71,18 @@ Time | February 29 | March 7 | March 21 | April 11 |  April 18
 3. Advanced Lists
 4. Get started with the Projects
 
-#### Day 7 (March 7)
-1. Review
-2. Advanced Functions
-3. Turtle
-4. Practice
+#### Day 7 (March 21)
+1. Advanced Functions
+2. Turtule
 
-#### Day 8 (March 21)
-1. Invited Talk
-
-#### Day 9 (April 11)
+#### Day 8 (April 11)
 1. Projects
 
-#### Day 10 (April 18)
-1. Presentation
+#### Day 9 (April 18)
+1. Projects
 
+#### Day 10 (May 2)
+1. Invited Speaker
 ## Anaconda installation
 
 1. Go to [Anaconda's website](https://docs.anaconda.com/anaconda/install/).
